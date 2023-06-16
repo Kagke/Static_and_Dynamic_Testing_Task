@@ -27,7 +27,7 @@ class CardGame:
    
 
   dif highest_card(self, card1 card2):
-  # in this line def is mispronaunsed with dif and inside the parenthesis between card1 and card2 is needs one coma
+  # in this line def is mispronounced  with dif and inside the parenthesis between card1 and card2 it needs one coma
   if card1.value > card2.value:
   # the if statement and everything under it is outside of the def statement
     return card
